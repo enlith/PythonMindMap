@@ -1,0 +1,5 @@
+Python
+	Help - information about function and statemen
+		python -c "help(help)"
+		python -c "help('print')"
+
